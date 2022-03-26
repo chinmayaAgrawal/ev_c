@@ -13,7 +13,7 @@
 - [Who are the Stakeholders?](#who-are-the-stakeholders)
 ------
 
-<img src="/reports/figures/decarbonisation_challenging.jpg" alt = "decarbonise_transport" width=100%/>
+
 
 
 
